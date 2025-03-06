@@ -10,7 +10,7 @@ import Education from "./component/Education";
 import Skill from "./component/Skill";
 import Speciality from "./component/Speciality";
 import Project from "./component/Project";
-// import Contact from "./component/Contact";
+import Contact from "./component/Contact";
 import Footer from "./component/layout/Footer";
 import "./App.css";
 
@@ -46,11 +46,11 @@ function App() {
                 <Project/>
             </section>
         </Element>
-        {/* <Element name='contact'>
+        <Element name='contact'>
             <section className="bg-[#050709]">
                 <Contact/>
             </section>
-        </Element> */}
+        </Element>
         <footer className="bg-[#140c1c] ">
             <Footer/>
         </footer>

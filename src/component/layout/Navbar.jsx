@@ -39,7 +39,7 @@ const Navbar = () => {
                     <ul className="flex items-center space-x-12">
                         <Link to="home" smooth={true} duration={500} className="cursor-pointer px-2">Trang chủ</Link>
                         <Link to="information" smooth={true} duration={500} className="cursor-pointer px-2">Thông tin</Link>
-                        <Link to="services" smooth={true} duration={500} className="cursor-pointer px-2">Services</Link>
+                        <Link to="services" smooth={true} duration={500} className="cursor-pointer px-2">Chuyên môn</Link>
                         <Link to="project" smooth={true} duration={500} className="cursor-pointer px-2">Dự án</Link>
                         <Link to="contact" smooth={true} duration={500} className="cursor-pointer px-2">Liên hệ</Link>
                     </ul>
@@ -61,7 +61,7 @@ const Navbar = () => {
                             <Link to="information" smooth={true} duration={500}>Thông tin</Link>
                         </li>
                         <li className='cursor-pointer py-5 hover:bg-[#2a1454]/70 w-full text-center transition-all duration-300 text-lg'>
-                            <Link to="services" smooth={true} duration={500}>Services</Link>
+                            <Link to="services" smooth={true} duration={500}>Chuyên môn</Link>
                         </li>
                         <li className='cursor-pointer py-5 hover:bg-[#2a1454]/70 w-full text-center transition-all duration-300 text-lg'>
                             <Link to="project" smooth={true} duration={500}>Dự án</Link>

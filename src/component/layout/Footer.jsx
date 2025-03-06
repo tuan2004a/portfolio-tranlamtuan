@@ -14,7 +14,7 @@ const Footer = () => {
                     <ul className="flex flex-wrap items-center mb-6 text-sm font-medium lg:space-x-10 sm:mb-0 text-gray-400">
                         <Link to="home" smooth={true} duration={500} className="cursor-pointer px-2">Trang chủ</Link>
                         <Link to="information" smooth={true} duration={500} className="cursor-pointer px-2">Thông tin</Link>
-                        <Link to="services" smooth={true} duration={500} className="cursor-pointer px-2">Services</Link>
+                        <Link to="services" smooth={true} duration={500} className="cursor-pointer px-2">Chuyên môn</Link>
                         <Link to="project" smooth={true} duration={500} className="cursor-pointer px-2">Dự án</Link>
                     </ul>
                 </div>
