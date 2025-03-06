@@ -2,7 +2,7 @@
 
 const Project = () => {
     return (
-        <div className="max-w-[1300px] mx-auto py-20 px-10 xl:px-10">
+        <div className="max-w-[1300px] mx-auto py-20 px-5 xl:px-0">
             <h4 className="font-semibold text-5xl inline-block mb-12 text-transparent bg-linear-to-r from-purple-600 to-white bg-clip-text leading-tight">Dự án gần đây</h4>
             <div className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-3">
                 <div className="z-10 group overflow-hidden rounded-2xl relative h-56 bg-cover bg-top bg-no-repeat bg-[url(https://themejunction.net/tailwind/gerold/demo/assets/img/project/project-3.png)]">
