@@ -2,7 +2,7 @@
 
 const Skill = () => {
     return (
-        <div className="max-w-[1300px] mx-auto text-white py-20 px-10 xl:px-0">
+        <div className="max-w-[1300px] mx-auto text-white py-20 px-5 xl:px-0">
             <h4 className="font-semibold text-5xl text-center mb-12 text-transparent bg-linear-to-r from-purple-600 from-45% to-white to-55% bg-clip-text leading-tight">Kỹ năng</h4>
             <div className="w-full flex flex-wrap items-center justify-center gap-7">
                 <div className="size-44 bg-[#140C1C] group flex flex-col items-center justify-center rounded-3xl transition-all duration-300 cursor-default border border-transparent hover:border-[#8750f7]">

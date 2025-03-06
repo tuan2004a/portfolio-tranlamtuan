@@ -2,7 +2,7 @@
 
 const Speciality = () => {
     return (
-        <div className="max-w-[1300px] mx-auto text-white py-20 px-10 xl:px-0">
+        <div className="max-w-[1300px] mx-auto text-white py-20 px-5 xl:px-0">
             <h4 className="font-semibold text-5xl inline-block mb-12 text-transparent bg-linear-to-r from-purple-600 to-white bg-clip-text leading-tight">Chuyên môn</h4>
             <div className="grid grid-cols-1 gap-7 lg:grid-cols-2">
                 <div className=" rounded-2xl border border-[#8750f7]/50">

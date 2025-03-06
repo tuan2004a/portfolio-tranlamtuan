@@ -2,7 +2,7 @@
 
 const Education = () => {
     return (
-        <div className="max-w-[1300px] mx-auto text-white py-20 px-10 xl:px-0">
+        <div className="max-w-[1300px] mx-auto text-white py-20 px-5 xl:px-0">
             {/* <h2 className="font-semibold text-5xl inline-block mb-7 text-transparent bg-linear-to-r from-purple-600 to-white bg-clip-text leading-tight">Học vấn & kinh nghiệm</h2>
              <div className="grid grid-cols-2 mt-5 gap-14">
                 <div className="flex items-start space-x-5 pl-10 relative after:absolute after:bg-gray-700 after:h-5/6 after:w-px after:top-7 after:left-1.5 before:absolute before:top-5 before:left-px before:size-3 before:bg-gray-700 before:rounded-full">
