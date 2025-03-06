@@ -4,8 +4,8 @@ const Introduce = () => {
         <div className="max-w-[750px] mx-auto text-white py-20 px-5 lg:max-w-[1300px] sm:px-10 xl:px-0">
             <div className="w-full flex flex-wrap items-center justify-between md:flex-nowrap">
                 <div className="flex flex-col items-center w-full md:w-1/2">
-                    <h1 className="text-left font-bold w-full text-xl lg:pl-20 md:text-xl lg:text-3xl">
-                        Xin chào, Tôi là Lâm Tuấn <br /> <span className="inline-block font-bold text-transparent bg-linear-to-r from-purple-600 to-white bg-clip-text leading-none mt-2.5 text-3xl md:text-4xl lg:text-6xl">Web Developer</span>
+                    <h1 className="text-left font-bold w-full text-[21px] lg:pl-20 md:text-xl lg:text-3xl">
+                        Xin chào, Tôi là Lâm Tuấn <br /> <span className="inline-block font-bold text-transparent bg-linear-to-r from-purple-600 to-white bg-clip-text leading-none mt-2.5 text-4xl md:text-4xl lg:text-6xl">Web Developer</span>
                     </h1>
                     <div className="size-[320px] sm:size-[380px] md:size-[430px] overflow-hidden relative rounded-4xl border-2 border-[#8750f7]/50 cursor-default transition-all duration-400 rotate-6 hover:rotate-0 hover:border-[#8750f7] my-10 md:hidden">
                         <img src="/image/avat2.jpg" alt="" className="overflow-hidden " />
