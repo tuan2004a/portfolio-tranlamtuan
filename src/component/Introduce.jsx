@@ -18,9 +18,6 @@ const Introduce = () => {
                             Gmail
                         </a>
                         <div className="flex items-center space-x-7">
-                            <a href="#" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
-                                <i className="fa-brands fa-facebook-f "></i>
-                            </a>
                             <a href="https://www.linkedin.com/in/lam-tuan-2072a4329/" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
                                 <i className="fa-brands fa-linkedin-in"></i>
                             </a>
