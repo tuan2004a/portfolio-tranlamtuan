@@ -13,21 +13,21 @@ const Introduce = () => {
                     <p className="text-xl font-light leading-relaxed mt-5 text-zinc-300 w-full lg:pl-20 md:max-lg:text-lg">Sinh viên năm cuối ngành công nghệ thông tin đang tìm kiếm cơ hội  phát triển bản thân với vai  trò intern developer</p>
                     
                     <div className="flex flex-wrap items-center gap-7 mt-10 w-full lg:pl-20">
-                        <button className="py-4 px-18 bg-[#8750f7] rounded-full font-semibold leading-none flex items-center text-[17.5px] cursor-pointer lg:px-8">
+                        <a href="mailto:dev.lamtuan@gmail.com" className="py-4 px-18 bg-[#8750f7] rounded-full font-semibold leading-none flex items-center text-[17.5px] cursor-pointer lg:px-8">
                             <i className="fa-regular fa-envelope mr-3 text-[27px]"></i>
                             Gmail
-                        </button>
+                        </a>
                         <div className="flex items-center space-x-7">
                             <a href="#" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
                                 <i className="fa-brands fa-facebook-f "></i>
                             </a>
-                            <a href="#" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
+                            <a href="https://www.linkedin.com/in/lam-tuan-2072a4329/" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
                                 <i className="fa-brands fa-linkedin-in"></i>
                             </a>
-                            <a href="#" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
+                            <a href="https://tranlamtuan.vercel.app/" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
                                 <i className="fa-solid fa-globe"></i>
                             </a>
-                            <a href="#" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
+                            <a href="https://github.com/tuan2004a" className="size-9 overflow-hidden peer relative z-10 rounded-full border border-[#8750f7] flex items-center justify-center text-[#8750f7] text-sm transition-all duration-300 hover:text-white after:absolute after:top-1/2 after:left-1/2 after:-translate-1/2 after:size-0 after:-z-10 after:bg-[#8750f7] after:rounded-full after:transition-all after:duration-300 hover:after:size-full">
                                 <i className="fa-brands fa-github"></i>
                             </a>
                         </div>
