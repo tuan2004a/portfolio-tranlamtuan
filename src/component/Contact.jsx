@@ -6,10 +6,10 @@ const Contact = () => {
             <ul className="text-xl">
                 <li>
                     Email: 
-                    <a href="mailto:dev.lamtuan@gmail.com" className="ml-1 text-blue-500 underline">dev.lamtuan@gmail.com</a>
+                    <a href="mailto:dev.lamtuan@gmail.com" target="_blank" className="ml-1 text-blue-500 underline">dev.lamtuan@gmail.com</a>
                 </li>
                 <li>
-                    Số điện thoại: <a href="tel:0354568051" className="ml-1 text-blue-500 underline">0354568051</a>
+                    Số điện thoại: <a href="tel:0354568051" target="_blank" className="ml-1 text-blue-500 underline">0354568051</a>
                 </li>
             </ul>
         </div>
